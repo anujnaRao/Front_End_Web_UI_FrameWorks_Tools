@@ -1,0 +1,17 @@
+.row-header{
+    background-color: rgb(187, 165, 207);
+    color: white;
+
+}
+
+.content-header{
+    padding: 50px 0 40px 0;
+}
+
+.par{
+    padding-top: 40px;
+}
+
+.footer-content{
+    background-color: rgb(187, 165, 207);
+}
