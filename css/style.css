@@ -31,3 +31,8 @@
 .navbar-dark{
     background-color: #512DA8;
 }
+.card-title{
+  background-color: orange;
+  padding: 10px 10px 10px 10px;
+  color: white;
+}
