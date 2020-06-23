@@ -31,8 +31,10 @@
 .navbar-dark{
     background-color: #512DA8;
 }
-.card-title{
-  background-color: orange;
-  padding: 10px 10px 10px 10px;
-  color: white;
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
